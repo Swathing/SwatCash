@@ -1,0 +1,7 @@
+name: SwatCash
+version: '1.0-SNAPSHOT'
+main: me.swathing.swatcash.Main
+
+commands:
+  cash:
+    description: cash command

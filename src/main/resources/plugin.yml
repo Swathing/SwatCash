@@ -1,0 +1,7 @@
+name: SwatCash
+version: '${project.version}'
+main: me.swathing.swatcash.Main
+
+commands:
+  cash:
+    description: cash command
